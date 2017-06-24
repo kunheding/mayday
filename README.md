@@ -1,0 +1,2 @@
+# mayday
+just another repository
